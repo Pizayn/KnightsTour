@@ -1,0 +1,13 @@
+c:\users\pizayn\documents\visual studio 2015\Projects\YazilimYapimi2\YazilimYapimi2\bin\Debug\YazilimYapimi2.exe.config
+c:\users\pizayn\documents\visual studio 2015\Projects\YazilimYapimi2\YazilimYapimi2\bin\Debug\YazilimYapimi2.exe
+c:\users\pizayn\documents\visual studio 2015\Projects\YazilimYapimi2\YazilimYapimi2\bin\Debug\YazilimYapimi2.pdb
+c:\users\pizayn\documents\visual studio 2015\Projects\YazilimYapimi2\YazilimYapimi2\obj\Debug\YazilimYapimi2.Form1.resources
+c:\users\pizayn\documents\visual studio 2015\Projects\YazilimYapimi2\YazilimYapimi2\obj\Debug\YazilimYapimi2.Knight_s_Tour.resources
+c:\users\pizayn\documents\visual studio 2015\Projects\YazilimYapimi2\YazilimYapimi2\obj\Debug\YazilimYapimi2.Properties.Resources.resources
+c:\users\pizayn\documents\visual studio 2015\Projects\YazilimYapimi2\YazilimYapimi2\obj\Debug\YazilimYapimi2.csproj.GenerateResource.Cache
+c:\users\pizayn\documents\visual studio 2015\Projects\YazilimYapimi2\YazilimYapimi2\obj\Debug\YazilimYapimi2.exe
+c:\users\pizayn\documents\visual studio 2015\Projects\YazilimYapimi2\YazilimYapimi2\obj\Debug\YazilimYapimi2.pdb
+C:\Users\Pizayn\Documents\Visual Studio 2015\Projects\YazilimYapimi2\YazilimYapimi2\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\Pizayn\Documents\Visual Studio 2015\Projects\YazilimYapimi2\YazilimYapimi2\obj\Debug\YazilimYapimi2.csprojAssemblyReference.cache
+C:\Users\Pizayn\Documents\Visual Studio 2015\Projects\YazilimYapimi2\YazilimYapimi2\obj\Debug\YazilimYapimi2.csproj.CoreCompileInputs.cache
+C:\Users\Pizayn\Documents\Visual Studio 2015\Projects\YazilimYapimi2\YazilimYapimi2\obj\Debug\YazilimYapimi2.csproj.CopyComplete
